@@ -4,7 +4,10 @@
 A brief and practical introduction to the solution of hyperbolic conservation laws.
 This set of IPython notebooks was originally prepared for a 1-day tutorial that I
 taught in Gyor, Hungary in May 2014 as part of the 
-[Workshop on Design, Simulation, Optimization and Control of Green Vehicles and Transportation](http://jkk.sze.hu/en_GB/program).
+[Workshop on Design, Simulation, Optimization and Control of Green Vehicles and Transportation](https://jkk-web.sze.hu/workshop-on-design-simulation-optimization-and-control-of-green-vehicles-and-transportation/).
+
+## Modification by Tzu-Yao Huang
+Since the tutorial was written in the fashion of Python 2.7, while Python 3.x is more popular currently. Tzu-Yao has removed some deprecated commands and made some modifications to make it clearer and runnable in the latest Jupyter interpreter.
 
 ## Installation
 

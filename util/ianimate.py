@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib import animation
-from clawpack.visclaw.JSAnimation import IPython_display
+
 
 def ianimate(xc,q,bounds=(0,1,-0.1,1.1)):
     fig = plt.figure(figsize=(8,4))
